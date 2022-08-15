@@ -1,6 +1,7 @@
-<h1 align="center">
+<p align="center">
   <img width="1000" height="215" src="https://media.discordapp.net/attachments/1007249766054379542/1008551879309000805/Starline_Logo2.png">
-</h1><p align="center">Made by 🌊Kitsunami the Fennec🌊#9666</p>
+</p><p align="center">Made by 🌊Kitsunami the Fennec🌊#9666</p>
+</p><p align="center">My Sonic-related Discord server: https://discord.com/invite/KggxgAfh3b</p>
 <h1 align="center">Doctor Starline songcodes list</h1>
 <h1 align="center">Shadow the Hedgehog</h1>
 <h1 align="center">
