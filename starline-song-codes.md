@@ -92,4 +92,10 @@ Credits:
 https://www.youtube.com/c/GroundbreakingBand
 groundbreakingthismachine || Cover to "This Machine" song
 
-
+<h1 align="center">Fanmade Songs</h1>
+<p align="center">(Sonic IDW Fanmade music)</p>
+Credits:
+<p align="center">
+  <img width="460" height="215" src="https://i.ytimg.com/vi/qWfGHrA5TVw/maxresdefault.jpg">
+</h1>
+https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg
