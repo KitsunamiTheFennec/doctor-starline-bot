@@ -2,6 +2,8 @@
   <img width="1000" height="215" src="https://media.discordapp.net/attachments/1007249766054379542/1008551879309000805/Starline_Logo2.png">
 </p><p align="center">Made by 🌊Kitsunami the Fennec🌊#9666</p>
 </p><p align="center">My Sonic-related Discord server: https://discord.com/invite/KggxgAfh3b</p>
+</p><p align="center">Bot is made ONLY for entertainment, ABSOLUTELY free to use (but not always online and still unfinished)</p>
+
 <h1 align="center">Doctor Starline songcodes list</h1>
 <h1 align="center">Shadow the Hedgehog</h1>
 <h1 align="center">
@@ -94,8 +96,41 @@ groundbreakingthismachine || Cover to "This Machine" song
 
 <h1 align="center">Fanmade Songs</h1>
 <p align="center">(Sonic IDW Fanmade music)</p>
-Credits:
+<p align="center">Credits:</p>
 <p align="center">
-  <img width="460" height="215" src="https://i.ytimg.com/vi/qWfGHrA5TVw/maxresdefault.jpg">
+  <img width="100" height="100" src="https://i.ytimg.com/vi/qWfGHrA5TVw/maxresdefault.jpg">
 </h1>
 https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg
+
+
+<h1 align="center">Other song codes</h1>
+<p align="center">(Because they're cool too)</p>
+
+<p align="center">roarofthejungledragon - Yharon's second phase theme from Terraria Calamity mod</p>
+
+
+
+
+
+<h1 align="center">Credits & Links</h1>
+<p align="center">Roar Of the Jungle Dragon<p>
+<h1 align="center">
+  <img width="100" height="100" src="https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/28/f1/db/28f1db1e-eb70-8a7e-28d7-1dfe438b8c16/811576033695.png/375x375ac.jpg"><p align="center">https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg<p></h1>
+
+<p align="center"> Portal 1 & 2 OST<p>
+<h1 align="center">
+  <img width="500" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Valve-logo.jpg/1200px-Valve-logo.jpg"></h1>
+
+
+<p align="center">Devil May Cry series OST<p>
+<h1 align="center">
+  <img width="500" height="100" src="https://i.ytimg.com/vi/fkU_84W46Zw/mqdefault.jpg"></h1>
+
+<p align="center"> Sonic the Hedgehog games OST<p>
+<h1 align="center">
+  <img width="500" height="100" src="https://i.playground.ru/p/Dt3K6L0d0UuaoWLX1MFFDQ.jpeg"></h1>
+
+<p align="center">Extended Sonic songs<p>
+https://www.youtube.com/c/OfficialVGM, 
+https://www.youtube.com/c/AacroXtensions, 
+https://www.youtube.com/c/OfficialVGM,
