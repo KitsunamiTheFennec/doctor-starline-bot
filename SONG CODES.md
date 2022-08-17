@@ -1,8 +1,9 @@
 <p align="center">
   <img width="1000" height="215" src="https://media.discordapp.net/attachments/1007249766054379542/1008551879309000805/Starline_Logo2.png">
 </p><p align="center">Made by 🌊Kitsunami the Fennec🌊#9666</p>
-</p><p align="center">My Sonic-related Discord server: https://discord.com/invite/KggxgAfh3b</p>
-</p><p align="center">Bot is made ONLY for entertainment, ABSOLUTELY free to use (but not always online and still unfinished)</p>
+<p align="center"><details></p>
+<p align="center"><summary>Important information</summary></p>
+<p align="center">Bot is made ONLY for entertainment (And to convince myself that I am not a complete nonentity, that I can do something useful), ABSOLUTELY free to use (but not always online and still unfinished)</p><p align="center"></details></p>
 
 <h1 align="center">Doctor Starline songcodes list</h1>
 <h1 align="center">Shadow the Hedgehog</h1>
