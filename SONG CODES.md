@@ -65,7 +65,6 @@
 
 🎵30 min extended songs🎵
 Credits: 
-https://www.youtube.com/c/OfficialVGM, 
 https://www.youtube.com/c/AacroXtensions, 
 https://www.youtube.com/c/OfficialVGM,
 
@@ -114,23 +113,25 @@ https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg
 
 <h1 align="center">Credits & Links</h1>
 <p align="center">Roar Of the Jungle Dragon<p>
-<h1 align="center">
-  <img width="100" height="100" src="https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/28/f1/db/28f1db1e-eb70-8a7e-28d7-1dfe438b8c16/811576033695.png/375x375ac.jpg"><p align="center">https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg<p></h1>
+<p align="center">
+  <img width="100" height="100" src="https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/28/f1/db/28f1db1e-eb70-8a7e-28d7-1dfe438b8c16/811576033695.png/375x375ac.jpg"><p align="center">https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg<p></p>
 
-<p align="center"> Portal 1 & 2 OST<p>
-<h1 align="center">
-  <img width="500" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Valve-logo.jpg/1200px-Valve-logo.jpg"></h1>
+<p align="center"> Portal 1, Portal 2, Half-Life 2 OST<p>
+<p align="center">
+  <img width="500" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Valve-logo.jpg/1200px-Valve-logo.jpg"></p>
 
 
-<p align="center">Devil May Cry series OST<p>
-<h1 align="center">
-  <img width="500" height="100" src="https://i.ytimg.com/vi/fkU_84W46Zw/mqdefault.jpg"></h1>
+<p align="center">Devil May Cry series, Metal Gear Rising: Revengeance OST<p>
+<p align="center">
+  <img width="500" height="100" src="https://i.ytimg.com/vi/fkU_84W46Zw/mqdefault.jpg"></p>
 
 <p align="center"> Sonic the Hedgehog games OST<p>
-<h1 align="center">
-  <img width="500" height="100" src="https://i.playground.ru/p/Dt3K6L0d0UuaoWLX1MFFDQ.jpeg"></h1>
+<p align="center">
+  <img width="500" height="100" src="https://i.playground.ru/p/Dt3K6L0d0UuaoWLX1MFFDQ.jpeg"></p>
 
 <p align="center">Extended Sonic songs<p>
-https://www.youtube.com/c/OfficialVGM, 
-https://www.youtube.com/c/AacroXtensions, 
-https://www.youtube.com/c/OfficialVGM,
+<p align="center">https://www.youtube.com/c/AacroXtensions,<p>
+<p align="center">https://www.youtube.com/c/OfficialVGM,<p>
+
+<p align="center">1 Hour version Roar Of the Jungle Dragon<p>
+<p align="center">https://www.youtube.com/c/Myuzamai<p>
