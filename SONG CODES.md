@@ -63,35 +63,35 @@
 
 
 
-🎵30 min extended songs🎵
-Credits: 
-https://www.youtube.com/c/AacroXtensions, 
-https://www.youtube.com/c/OfficialVGM,
+<p align="center">🎵30 min extended songs🎵</p>
+<p align="center">Credits: </p>
+<p align="center">https://www.youtube.com/c/AacroXtensions, </p>
+<p align="center">https://www.youtube.com/c/OfficialVGM,</p>
 
-
-<img src="https://i1.sndcdn.com/artworks-000522806286-uah161-t500x500.jpg" width="100" height="100">
-🎵Epic Metal Covers🎵
-Credits:
-https://www.youtube.com/c/LittleVMills
-
-
-
-🎵Mashups & Mixes🎵
-Credits:
-https://www.youtube.com/channel/UCJ1lIdC0Xw-dwPCxNm6MAKg
+<p align="center">
+<img src="https://i1.sndcdn.com/artworks-000522806286-uah161-t500x500.jpg" width="100" height="100"></p>
+<p align="center">🎵Epic Metal Covers🎵</p>
+<p align="center">Credits:</p>
+<p align="center">https://www.youtube.com/c/LittleVMills</p>
 
 
 
-🎵JossCruz OST (Sonic IDW Fanmade music)🎵
-Credits:
-https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg
+<p align="center">🎵Mashups & Mixes🎵</p>
+<p align="center">Credits:</p>
+<p align="center">https://www.youtube.com/channel/UCJ1lIdC0Xw-dwPCxNm6MAKg</p>
 
 
-<img src="https://static.wikia.nocookie.net/groundbreakingband/images/1/1d/Groundbreaking.png/revision/latest?cb=20171023001846" width="100" height="100">
-🎵Grounbreaking Covers🎵
-Credits:
-https://www.youtube.com/c/GroundbreakingBand
-groundbreakingthismachine || Cover to "This Machine" song
+
+<p align="center">🎵JossCruz OST (Sonic IDW Fanmade music)🎵</p>
+<p align="center">Credits:</p>
+<p align="center">https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg</p>
+
+<p align="center">
+<img src="https://static.wikia.nocookie.net/groundbreakingband/images/1/1d/Groundbreaking.png/revision/latest?cb=20171023001846" width="100" height="100"></p>
+<p align="center">🎵Grounbreaking Covers🎵</p>
+<p align="center">Credits:</p>
+<p align="center">https://www.youtube.com/c/GroundbreakingBand</p>
+<p align="center">groundbreakingthismachine || Cover to "This Machine" song</p>
 
 <h1 align="center">Fanmade Songs</h1>
 <p align="center">(Sonic IDW Fanmade music)</p>
@@ -103,10 +103,10 @@ https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg
 
 
 <h1 align="center">Other song codes</h1>
-<p align="center">(Because they're cool too)</p>
+<p align="center">(Because they're cool)</p>
 
 <p align="center">roarofthejungledragon - Yharon's second phase theme from Terraria Calamity mod</p>
-
+<p align="center">doom3theme</p>
 
 
 
@@ -124,6 +124,10 @@ https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg
 <p align="center">Devil May Cry series, Metal Gear Rising: Revengeance OST<p>
 <p align="center">
   <img width="500" height="100" src="https://i.ytimg.com/vi/fkU_84W46Zw/mqdefault.jpg"></p>
+
+<p align="center"> Doom 3 OST<p>
+<p align="center">
+  <img width="500" height="100" src="https://static.miraheze.org/closinglogosgroupwiki/thumb/5/50/Id_Software_%282004%29.png/350px-Id_Software_%282004%29.png"></p>
 
 <p align="center"> Sonic the Hedgehog games OST<p>
 <p align="center">
