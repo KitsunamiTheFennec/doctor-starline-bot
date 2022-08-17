@@ -6,6 +6,11 @@
 <p align="center">Bot is made ONLY for entertainment (And to convince myself that I am not a complete nonentity, that I can do something useful), ABSOLUTELY free to use (but not always online and still unfinished)</p><p align="center"></details></p>
 
 <h1 align="center">Doctor Starline songcodes list</h1>
+For easily navigating please use this thing
+<h1 align="center">
+  <img  src="https://media.discordapp.net/attachments/1007249766054379542/1009549709024690277/unknown.png">
+</h1>
+
 <h1 align="center">Shadow the Hedgehog</h1>
 <h1 align="center">
   <img width="460" height="215" src="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cfbcee2a957a34f269b27817d5e14671.jpg">
