@@ -93,13 +93,13 @@
 <p align="center">https://www.youtube.com/c/GroundbreakingBand</p>
 <p align="center">groundbreakingthismachine || Cover to "This Machine" song</p>
 
-<h1 align="center">Fanmade Songs</h1>
+<h1 align="center">Fanmade Sonic Songs</h1>
 <p align="center">(Sonic IDW Fanmade music)</p>
 <p align="center">Credits:</p>
 <p align="center">
   <img width="100" height="100" src="https://i.ytimg.com/vi/qWfGHrA5TVw/maxresdefault.jpg">
-</h1>
-https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg
+</p>
+<p align="center">https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg</p>
 
 
 <h1 align="center">Other song codes</h1>
