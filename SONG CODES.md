@@ -44,9 +44,9 @@
 </h1>
 <p align="center">sunshine - Can You Feel The Sunshine?</p>
 <p align="center">workitout - Work It Out</p>
-<p align="center">livinginthecity - Living In the City</p>
+<p align="center">livinginthecity - Living In the City (Radical City)</p>
 <p align="center">youremynumberone - You're My Number One</p>
-<p align="center">backintime</p>
+<p align="center">backintime - Back In Time</p>
 
 <h1 align="center">Sonic And the Black Knight</h1>
 <h1 align="center">
@@ -106,7 +106,7 @@ https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg
 <p align="center">(Because they're cool)</p>
 
 <p align="center">roarofthejungledragon - Yharon's second phase theme from Terraria Calamity mod</p>
-<p align="center">doom3theme</p>
+<p align="center">doom3theme - Doom 3 main menu theme</p>
 
 
 
