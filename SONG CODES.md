@@ -66,14 +66,6 @@ For easily navigating please use this thing
 </p>
 <p align="center">https://www.youtube.com/c/KondrashovsLair</p>
 
-
-
-
-<p align="center">🎵30 min extended songs🎵</p>
-<p align="center">Credits: </p>
-<p align="center">https://www.youtube.com/c/AacroXtensions, </p>
-<p align="center">https://www.youtube.com/c/OfficialVGM,</p>
-
 <p align="center">
 <img src="https://i1.sndcdn.com/artworks-000522806286-uah161-t500x500.jpg" width="100" height="100"></p>
 <p align="center">🎵Epic Metal Covers🎵</p>
@@ -82,37 +74,77 @@ For easily navigating please use this thing
 
 
 
-<p align="center">🎵Mashups & Mixes🎵</p>
+<p align="center">🎵CerberusFil300's Mashups🎵</p>
+<p align="center">vergilshighwayinthesky - Vergil's Highway in the Sky</p>
+<p align="center">guardianofthefleet - Guardian of the Fleet</p>
+<p align="center">Credits:</p>
+<p align="center">https://www.youtube.com/channel/UCiToyvGvRhnToWdiMHFBRYg</p>
+
+<p align="center">🎵Aeon's Sonic x MGR:R Mashups🎵☑️</p>
+<p align="center">aeonavatar - Avatar ~A Soul Can't Be Cut Remix~</p>
+<p align="center">aeoneggman - E.G.G.M.A.N. ~Collective Consciousness Remix~</p>
+<p align="center">aeoninfinite - Infinite ~Rules of Nature Remix~</p>
+<p align="center">aeonmix - Live and Learn/His World/Fist Bump ~It Has To Be This Way Remix~</p>
+<p align="center">aeonnowaythrough - No Way Through ~Return to Ashes Remix~</p>
+<p align="center">aeonopenyourheart - Open Your Heart ~Red Sun Remix~</p>
+<p align="center">aeonsonicrushadventurebosstheme - </p>
+<p align="center">aeonthecore - The Core ~I'm My Own Master Now Remix~</p>
+<p align="center">aeonthismachine - This Machine ~The Only Thing I Know For Real Remix~</p>
+<p align="center">aeonwhatimmadeof - What I'm Made Of ~The Stains of Time Remix~</p>
+<p align="center">aeonwhoiam - Who I Am ~The Hot Wind Blowing Remix~</p>
+<p align="center">aeonwithme - With Me ~A Stranger I Remain Remix~</p>
 <p align="center">Credits:</p>
 <p align="center">https://www.youtube.com/channel/UCJ1lIdC0Xw-dwPCxNm6MAKg</p>
 
-
-
 <p align="center">🎵JossCruz OST (Sonic IDW Fanmade music)🎵</p>
+<p align="center">
+  <img width="100" height="100" src="https://i.ytimg.com/vi/qWfGHrA5TVw/maxresdefault.jpg">
+</p>
+<p align="center">josscruzbellethetinkerertheme</p>
+<p align="center">josscruzdrstarlinetheme</p>
+<p align="center">josscruzdrstarlinethemeorchestra</p>
+<p align="center">josscruzdrstarlinethemever2</p>
+<p align="center">josscruzjewelthebeetletheme</p>
+<p align="center">josscruzkitsunamithefennectheme</p>
+<p align="center">josscruzmimictheoctopustheme</p>
+<p align="center">josscruzroughtheskunktheme</p>
+<p align="center">josscruzsurgethetenrectheme</p>
+<p align="center">josscruztanglethelemurtheme</p>
+<p align="center">josscruztumbletheskunktheme</p>
+<p align="center">josscruzwhisperthewolftheme</p>
 <p align="center">Credits:</p>
 <p align="center">https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg</p>
 
 <p align="center">
 <img src="https://static.wikia.nocookie.net/groundbreakingband/images/1/1d/Groundbreaking.png/revision/latest?cb=20171023001846" width="100" height="100"></p>
-<p align="center">🎵Grounbreaking Covers🎵</p>
+<p align="center">🎵Grounbreaking Covers🎵☑️</p>
 <p align="center">Credits:</p>
 <p align="center">https://www.youtube.com/c/GroundbreakingBand</p>
 <p align="center">groundbreakingthismachine || Cover to "This Machine" song</p>
 
-<h1 align="center">Fanmade Sonic Songs</h1>
-<p align="center">(Sonic IDW Fanmade music)</p>
-<p align="center">Credits:</p>
-<p align="center">
-  <img width="100" height="100" src="https://i.ytimg.com/vi/qWfGHrA5TVw/maxresdefault.jpg">
-</p>
-<p align="center">https://www.youtube.com/channel/UCp9FIbwhguVWckp-oVod7Wg</p>
-
-
 <h1 align="center">Other song codes</h1>
 <p align="center">(Because they're cool)</p>
 
-<p align="center">roarofthejungledragon - Yharon's second phase theme from Terraria Calamity mod</p>
-<p align="center">doom3theme - Doom 3 main menu theme</p>
+<p align="center">roarofthejungledragon - (Roar Of the Jungle Dragon) Yharon's second phase theme from Terraria Calamity mod</p>
+<p align="center">apprehensionandevasion - (Apprehension And Evasion) Song from Half-Life 2</p>
+<p align="center">burythelight - (Bury the Light) Theme of Vergil from Devil May Cry 5</p>
+<p align="center">deviltrigger - (Devil Trigger) Theme of Nero from Devil May Cry 5</p>
+<p align="center">subhuman - (Subhuman) Theme of Dante from Devil May Cry 5</p>
+<p align="center">devilsnevercry - (Devils Never Cry) Song from Devil May Cry 3</p>
+<p align="center">tastetheblood - (Taste the Blood (Vergil's version) Song from Devil May Cry 3 (Or Devil May Cry 5 SE, I'm not sure...)</p>
+<p align="center">tastethebloodvergil - (Taste the Blood (Vergil's version) Song from Devil May Cry 3</p>
+<p align="center">suffer - (Suffer) Song from Devil May Cry 3</p>
+<p align="center">theonlythingiknowforreal - (The Only Thing I Know For Real) Song from Metal Gear Rising: Revengeance</p>
+<p align="center">ithastobethisway - (It Has To Be This Way) Song from Metal Gear Rising: Revengeance</p>
+<p align="center">collectiveconsciousness - (Collective Consciousness) Song from Metal Gear Rising: Revengeance</p>
+<p align="center">thewarstillrageswithin - (The War Still Rages Within) Song from Metal Gear Rising: Revengeance</p>
+<p align="center">stillalive - (Still Alive) Song from Portal</p>
+<p align="center">wantyougone - (Want You Gone) Song from Portal 2</p>
+<p align="center">caramiaaddio - (Cara Mia Addio) Song from Portal 2</p>
+<p align="center">doom3theme - Doom 3 Main Menu Theme</p>
+
+<p align="center">🎵Other extended songs🎵</p>
+<p align="center">roarofthejungledragonextended - Roar Of the Jungle Dragon 1 hour version</p>
 
 
 
