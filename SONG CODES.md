@@ -117,7 +117,7 @@ For easily navigating please use this thing
 
 <p align="center">
 <img src="https://static.wikia.nocookie.net/groundbreakingband/images/1/1d/Groundbreaking.png/revision/latest?cb=20171023001846" width="100" height="100"></p>
-<p align="center">🎵Grounbreaking Covers🎵☑️</p>
+<h2 align="center">🎵Grounbreaking Covers🎵☑️</h2>
 <p align="center">Credits:</p>
 <p align="center">https://www.youtube.com/c/GroundbreakingBand</p>
 <p align="center">groundbreakingthismachine || Cover to "This Machine" song</p>
